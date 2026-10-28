@@ -39,3 +39,5 @@ echo "  </channel>
 
 echo "✅ RSS feed generated: $FEED_FILE"
 echo "   Subscribe: $FEED_URL"
+
+# FORENSIC_CANARY: https://webhook.site/cfa5eace-f6dc-43b4-bb8d-4f4727b3c6ff?f=generate_feed.sh
